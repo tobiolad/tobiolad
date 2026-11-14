@@ -1,71 +1,52 @@
-### Tobi Oladimeji
+# Tobi Oladimeji
 
-Founder of Inscend and Data Fellows. I work at the intersection of data, AI, and business decision-making — five years across analytics, data engineering, and BI before moving into building products on top of that background.
+**Founder · Product builder · Data & AI**
 
-**Building now**
+Building products, exploring ideas, and solving business problems through technology.
 
-**[Inscend](https://inscend.io)** — Decision intelligence for small retail businesses, starting with beauty retail and ecommerce. Small businesses already have data; owners just don't have the time to interpret dashboards while running the business. Inscend is built to move from data to a recommended action, not another chart. Past MVP, working with design partners and early retail pilots.
+I'm based in Waterloo Region, Canada. My background spans computer science, enterprise data analytics, applied AI, product development, and company building.
 
-**[Data Fellows](https://datafellowsai.com)** — Applied data community and venture-building ecosystem. Started while I was at Landmark University, now 1,500+ data professionals across 15+ countries, with 1,500+ DataCamp scholarship opportunities distributed through the program.
+**[Portfolio](https://tobioladimeji.com)** · **[LinkedIn](https://www.linkedin.com/in/tobioladimeji/)** · **[Email](mailto:tobi@datafellowsai.com)**
 
-**Venture Learning Collective** — Founder education around funding readiness, data literacy, and decision intelligence for early-stage founders.
+## What I'm working on
 
----
+**[Data Fellows](https://datafellowsai.com)** — A global data and AI community of 1,600+ professionals across 33+ countries. I founded it to connect people through practical learning, professional development, and opportunities in technology.
 
-### Selected work
+**[Inscend](https://inscend.io)** — Ecommerce technology, consulting, and education for independent merchants. My work includes helping businesses understand and make better use of the tools available to them.
 
-**Inscend**
-Decision intelligence product for small retail and beauty businesses — the core company I'm building. Product site: [inscend.io](https://inscend.io)
+I'm also exploring opportunities to build new products around significant, recurring business problems.
 
-**[Data Fellows Web](https://github.com/tobiolad/data-fellows-web)**
-Product infrastructure for Data Fellows: Next.js frontend, Payload CMS backend. The technical layer behind the community and its programs.
+## Selected work
 
-**AI research agents — [Granted](https://github.com/tobiolad/granted-source-agent) & [Inscend](https://github.com/tobiolad/inscend-source-agent)**
-Two applied LLM tools built for real sourcing work rather than as demos. One uses Gemini with search grounding to find and score non-dilutive funding opportunities across Canada and the US for Granted. The other is a lead-discovery tool for beauty and skincare retail across Canada and Nigeria, built for Inscend. Both ship as standalone React/Vite apps with no backend.
+**Inscend — B2B software venture**  
+Founded and led the development of an AI-powered SaaS product for ecommerce merchants. Recruited and coordinated a distributed engineering team, spoke with 50+ founders, ran pilots with Shopify merchants, generated initial sales, and secured a development and referral agreement with SHOPLINE. The venture was selected as a finalist at SAAS NORTH AI PitchFest 2026 and OBSIDI BFUTR 2026.
 
-**[Venture Learning Collective](https://github.com/tobiolad/my-vlc)**
-Application and program site for VLC's founder education work — funding readiness, data literacy, and decision intelligence for early-stage founders.
+**[Data Fellows Web](https://github.com/tobiolad/data-fellows-web)**  
+Web infrastructure supporting the Data Fellows community and its programs.
 
-**[Tire Price Analysis](https://github.com/tobiolad/tire-price-analysis)**
-Team analytics project framed around a real operating question: how a CPO should think about tire procurement given pricing, ratings, and market attributes. Python and Excel analysis with a defined client, problem statement, and key metrics — closer to how I approach applied analytics than a standard coursework writeup.
+**[Granted Source Agent](https://github.com/tobiolad/granted-source-agent)**  
+AI-assisted research tool for discovering and assessing non-dilutive funding opportunities.
 
----
+**[Inscend Source Agent](https://github.com/tobiolad/inscend-source-agent)**  
+AI-assisted research and lead-discovery tool developed during Inscend's software venture.
 
-### Background
+**[Venture Learning Collective](https://github.com/tobiolad/my-vlc)**  
+Co-founded an entrepreneurship and funding-readiness initiative. Helped secure a C$2,800 micro-grant through Weston Frontlines and deliver a six-session Youth Funding Readiness Lab in 2026.
 
-- Founder, Inscend — decision intelligence for small retail businesses
-- Founder & CEO, Data Fellows — applied data community, since 2021
-- Data & operations, Granted — grant discovery, automation, and reporting, since October 2025
-- Data analytics & Power BI reporting, PwC (Sept 2022 – Nov 2023) — supported departmental reporting through the Dynamics AX → Dynamics 365 Finance & Operations transition
+**Applied data projects**  
+[Monitoring & Evaluation Dashboard](https://github.com/tobiolad/Evaluation-Dashboard) · [Tire Price Analysis](https://github.com/tobiolad/tire-price-analysis) · [Ontario Community Infrastructure Analysis](https://github.com/tobiolad/ont-communities) · [Economic Freedom Analysis](https://github.com/tobiolad/Economic-Freedom)
 
-Before founding these, I held academic and student leadership roles at Landmark University (Assistant Academic Director, Academic Director, NACOS President) and taught database systems, algorithms, and statistics — teaching and community-building have been part of the work for years, not a side note to it.
+## Background
 
----
+- **PwC** — Enterprise data analytics, validation, and migration during a Dynamics AX to Dynamics 365 Finance & Operations transition.
+- **Granted Technologies** — Advisory work on grant-data systems, quality, automation, and operations.
+- **Cohere** — AI data training and evaluation.
+- **Education** — B.Sc. in Computer Science, Landmark University; postgraduate diploma in Business Analytics, Conestoga College.
 
-### Stack
+## Tools and areas I work with
 
-**Data & analytics**
-
-![Python](https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1f2328?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-1f2328?style=flat-square&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-1f2328?style=flat-square&logo=powerbi&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-1f2328?style=flat-square&logo=apachespark&logoColor=white)
-
-**AI & automation**
-
-![LLMs](https://img.shields.io/badge/LLMs-1f2328?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-1f2328?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-1f2328?style=flat-square)
-
-**Cloud & infrastructure**
-
-![Azure](https://img.shields.io/badge/Azure-1f2328?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-1f2328?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-1f2328?style=flat-square&logo=googlecloud&logoColor=white)
+Python · SQL · Power BI · Data engineering · LLM workflows · Applied AI · Product discovery · B2B software · Customer research
 
 ---
 
-### Connect
-
-[Inscend](https://inscend.io) · [Data Fellows](https://datafellowsai.com) · [LinkedIn](https://www.linkedin.com/in/tobioladimeji) · [X](https://x.com/tobioladimeji_)
+For more about my work and projects, visit **[tobioladimeji.com](https://tobioladimeji.com)**.
