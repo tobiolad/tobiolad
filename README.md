@@ -8,18 +8,17 @@ I'm based in Waterloo Region, Canada. My background spans computer science, ente
 
 **[Portfolio](https://tobioladimeji.com)** · **[LinkedIn](https://www.linkedin.com/in/tobioladimeji/)** · **[Email](mailto:tobi@datafellowsai.com)**
 
-## What I'm working on
+## Currently
 
-**[Data Fellows](https://datafellowsai.com)** — A global data and AI community of 1,600+ professionals across 33+ countries. I founded it to connect people through practical learning, professional development, and opportunities in technology.
+**[Data Fellows](https://datafellowsai.com)** — Founder & CEO, August 2022 – present. A global data and AI community of 1,600+ members across 33+ countries. I run learning programs, industry partnerships, and events that connect people to opportunities in technology.
 
-**[Inscend](https://inscend.io)** — Ecommerce technology, consulting, and education for independent merchants. My work includes helping businesses understand and make better use of the tools available to them.
+I'm also open to roles and projects where I can work on meaningful products and business problems.
 
-I'm also exploring opportunities to build new products around significant, recurring business problems.
+## Selected ventures and projects
 
-## Selected work
-
-**Inscend — B2B software venture**  
-Founded and led the development of an AI-powered SaaS product for ecommerce merchants. Recruited and coordinated a distributed engineering team, spoke with 50+ founders, ran pilots with Shopify merchants, generated initial sales, and secured a development and referral agreement with SHOPLINE. The venture was selected as a finalist at SAAS NORTH AI PitchFest 2026 and OBSIDI BFUTR 2026.
+**Inscend — B2B software venture, 2025–2026**  
+Founded and led development of an AI-powered SaaS product for ecommerce merchants. Recruited and coordinated a distributed engineering team, spoke with 50+ founders, ran pilots with Shopify merchants, generated initial sales, and secured a development and referral agreement with SHOPLINE. Finalist, SAAS NORTH AI PitchFest 2026 and OBSIDI BFUTR 2026.  
+Project site: [inscend.io](https://inscend.io)
 
 **[Data Fellows Web](https://github.com/tobiolad/data-fellows-web)**  
 Web infrastructure supporting the Data Fellows community and its programs.
@@ -38,15 +37,30 @@ Co-founded an entrepreneurship and funding-readiness initiative. Helped secure a
 
 ## Background
 
-- **PwC** — Enterprise data analytics, validation, and migration during a Dynamics AX to Dynamics 365 Finance & Operations transition.
-- **Granted Technologies** — Advisory work on grant-data systems, quality, automation, and operations.
+- **PwC** — Enterprise data analytics, data quality, and migration during a Dynamics AX to Dynamics 365 Finance & Operations transition.
+- **ESGTree** — Analytics, environmental data, and applied machine learning.
 - **Cohere** — AI data training and evaluation.
+- **GRANTED** — Advisory work on grant-data systems, automation, and grant intelligence.
+- **Data Fellows** — Community building, technical collaboration, leadership, and professional development.
 - **Education** — B.Sc. in Computer Science, Landmark University; postgraduate diploma in Business Analytics, Conestoga College.
 
 ## Tools and areas I work with
 
-Python · SQL · Power BI · Data engineering · LLM workflows · Applied AI · Product discovery · B2B software · Customer research
+Python · SQL · Power BI · Data analytics · Data engineering · AI & machine learning workflows · LLM applications · Automation · Software development · Product discovery · Customer research
+
+## Writing & Media
+
+I write **[Data Made Simple](https://www.linkedin.com/newsletters/data-made-simple-7416025825822617600)**, a newsletter on data, AI, and making better decisions.
+
+Selected publications:
+- [Building a Lean and Affordable Data Strategy](https://ikonikpress.com/building-a-lean-and-affordable-data-strategy/) — IKONIK Magazine
+- [Beyond Data: How Tobi Oladimeji Is Redefining the Human Side of Innovation](https://ikonikpress.com/beyond-data-how-tobi-oladimeji-is-redefining-the-human-side-of-innovation/) — IKONIK Magazine
+- [Avoiding Common Data Mistakes](https://ikonikpress.com/avoiding-common-data-mistakes-by-tobi-oladimeji-for-ikonik-magazine/) — IKONIK Magazine
+- [Practical Ways Small Businesses Can Use Data to Grow](https://ikonikpress.com/practical-ways-small-businesses-can-use-data-to-grow/) — IKONIK Magazine
+- [Championing Data-Driven Decision-Making for Small Businesses](https://blog.afriblocks.com/en/championing-data-driven-decision-making-for-small-businesses) — AfriBlocks
+
+More writing and media on **[tobioladimeji.com](https://tobioladimeji.com)**.
 
 ---
 
-For more about my work and projects, visit **[tobioladimeji.com](https://tobioladimeji.com)**.
+**[Portfolio](https://tobioladimeji.com)** · **[LinkedIn](https://www.linkedin.com/in/tobioladimeji/)** · **[Data Fellows](https://datafellowsai.com)** · **[Newsletter](https://www.linkedin.com/newsletters/data-made-simple-7416025825822617600)**
