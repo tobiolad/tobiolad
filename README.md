@@ -8,13 +8,13 @@ My experience spans enterprise analytics, business intelligence, data engineerin
 
 ## Current focus
 
-- **Product & Data Builder at Data Fellows**, working across software, data, AI and community development.
+- **Product & Community Builder at Data Fellows**, contributing to a global, community-led technology initiative across software, data and AI.
 - **AI Data Trainer with Cohere**, supporting model evaluation and data quality as an independent contractor.
 - Open to full-time opportunities in data analytics, business intelligence, applied AI, product development, business analysis and technology.
 
 ## Selected work
 
-- **Data Fellows:** built a global network of more than 1,600 data and technology professionals across 33+ countries.
+- **Data Fellows:** founded and grew a global, community-led technology initiative connecting 1,600+ professionals across 33+ countries through practical learning, mentorship, product development and technical collaboration across software, data and AI.
 - **Inscend:** worked as Product Manager, AI Commerce on an AI-powered, Shopify-connected commerce product; engaged 50+ founders, built a 3,000+ merchant-focused audience through a newsletter and articles shared with 19,000+ followers, started Shopify Builders Waterloo, and helped establish a SHOPLINE development and referral agreement intended to support access to more than 600,000 merchants. The venture concluded in November 2026.
 - **Enterprise data and AI:** PwC, ESGTree and Granted work across Power BI, SQL, Python, data quality, automation and applied AI.
 
