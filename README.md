@@ -2,12 +2,13 @@
 
 **Data. AI. Product.**
 
-I work at the intersection of data, AI, and product development, helping organizations solve practical problems through technology.
+I’m a Forward Deployed Product Manager at Conscia. My work and interests span data, AI and product development, with a focus on solving practical problems through technology.
 
 My experience spans enterprise analytics, business intelligence, data engineering, applied AI, software product development and digital transformation across PwC, ESGTree, Granted and Cohere.
 
 ## Current focus
 
+- **Forward Deployed Product Manager at Conscia (full-time)**, focused on customer discovery, product management and enterprise data and AI technology.
 - **Product & Community Builder at Data Fellows**, contributing to a global, community-led technology initiative across software, data and AI.
 - **AI Data Trainer with Cohere**, supporting model evaluation and data quality as an independent contractor.
 
