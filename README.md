@@ -10,7 +10,6 @@ My experience spans enterprise analytics, business intelligence, data engineerin
 
 - **Product & Community Builder at Data Fellows**, contributing to a global, community-led technology initiative across software, data and AI.
 - **AI Data Trainer with Cohere**, supporting model evaluation and data quality as an independent contractor.
-- Open to full-time opportunities in data analytics, business intelligence, applied AI, product development, business analysis and technology.
 
 ## Selected work
 
